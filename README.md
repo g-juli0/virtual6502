@@ -1,5 +1,5 @@
 # Virtual 6502
-A virtual 6502 processor written in TypeScript and running on Node.js. This project is the practical component of Prof. Gormanly's Computer Organization and Architecture class.
+A virtual 6502 processor written in TypeScript and running on Node.js. This project is the practical component of Prof. Gormanly's Computer Organization and Architecture class (CMPT422) at Marist College.
 
 ## Credits
 This software is an adaptation of a project created by [Dr. Alan Labouseur](http://labouseur.com/courses/os/) for his Operating Systems (CMPT 424) course project, which builds an operating system on top of a rudimentary virtual 6502 CPU. This project focuses on building a robust and complete 6502 architecture and instruction set. This project is a 6502 emulator programmed using TypeScript that will run on server-side JavaScript in Node.js. Here are references to Dr. Labouseur's original projects:
